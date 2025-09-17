@@ -49,6 +49,7 @@ Das Template enthält **Bildrahmen**, die du einfach befüllen kannst:
 
 > [!WARNING]
 > Sollten die Textfelder auf den editierbaren Seiten sich nicht skalieren lassen, können die Felder über das Kontextmenü freigegeben werden.
+> 
 > ![Textfeld freigeben](/Images/masterFreigeben.png)
 
 - **Farben ändern**: Öffne das **Farbfelder-Panel** und wähle eine neue Farbe aus deiner Palette. 
@@ -62,10 +63,14 @@ Das Template enthält **Bildrahmen**, die du einfach befüllen kannst:
 
 > [!TIP]
 > Die fertige pr0-Farbpalette zum importieren findet man [hier](/Template/pr0_p0st_palette.clr) für den Import in Publisher.
-> ![Farbpalettenimport](/Images/paletteImport1.png) 
+> ![Farbpalettenimport](/Images/paletteImport1.png)
+> 
 > [Infos zu den pr0-genutzten Farben:](https://pr0gramm.com/upload-info)
+> 
 > [Infos zu den pr0-genutzten Farben REDESIGN:](https://pr0.app/upload-info)
 
 ## 6. Export für das pr0
 
 Zuletzt wird die bearbeitete Seite als Bilddatei für den Upload exportiert.
+
+![Beispielausgabe](/Images/exampleOutput.png)
