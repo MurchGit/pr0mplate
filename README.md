@@ -2,11 +2,11 @@
 
 1. Starte **Affinity Publisher**.  
 2. Gehe zu **Datei > Öffnen...**.  
-3. Wähle dein gewünschtes Template (Dateiendung: `.aftemplate`) aus.  
+3. Wähle dein gewünschtes Template (Dateiendung: `.afpub`) aus.  
 4. Klicke auf **Öffnen** – das Dokument wird mit allen Platzhaltern und Formatierungen geladen.
 
 > [!TIP]
-> Drag & Drop der `.aftemplate`-Datei funktioniert ebenfalls.
+> Drag & Drop der `.afpub`-Datei funktioniert ebenfalls.
 
 5. Um Seiten im Arbeitsbereich aus den Master-Seiten zu nutzen einer neuen Seite eine Master-Seite zuweisen oder eine Master-Seite per Drag & Drop in die Arbeitsbereichliste ziehen.
 
