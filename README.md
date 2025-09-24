@@ -1,12 +1,22 @@
-## 1. Template öffnen
+## 1. Template öffnen Affinity v2
 
-1. Starte **Affinity Publisher**.  
+1. Starte **Affinity Publisher v2**.  
 2. Gehe zu **Datei > Öffnen...**.  
 3. Wähle dein gewünschtes Template (Dateiendung: `.afpub`) aus.  
 4. Klicke auf **Öffnen** – das Dokument wird mit allen Platzhaltern und Formatierungen geladen.
 
 > [!TIP]
-> Drag & Drop der `.afpub`-Datei funktioniert ebenfalls.
+> Drag & Drop der [`pr0postAffinity_v2_old.afpub`-Datei](https://github.com/MurchGit/pr0mplate/blob/main/Template/pr0postAffinity_v2_old.afpub) funktioniert ebenfalls.
+
+## 2. Template öffnen Affinity v3
+
+1. Starte **Affinity**.  
+2. Gehe zu **Datei > Öffnen...**.  
+3. Wähle dein gewünschtes Template (Dateiendung: `.aftemplate`) aus.  
+4. Klicke auf **Öffnen** – das Dokument wird mit allen Platzhaltern und Formatierungen geladen.
+
+> [!TIP]
+> Drag & Drop der [`pr0postAffinity_v2_old.afpub`-Datei](https://github.com/MurchGit/pr0mplate/blob/main/Template/pr0postAffinity_v3_new.aftemplate) funktioniert ebenfalls.
 
 5. Um Seiten im Arbeitsbereich aus den Master-Seiten zu nutzen einer neuen Seite eine Master-Seite zuweisen oder eine Master-Seite per Drag & Drop in die Arbeitsbereichliste ziehen.
 
@@ -15,7 +25,7 @@
 
 ---
 
-## 2. Bilder in Platzhalter einfügen
+## 3. Bilder in Platzhalter einfügen
 
 Das Template enthält **Bildrahmen**, die du einfach befüllen kannst:
 
@@ -30,7 +40,7 @@ Das Template enthält **Bildrahmen**, die du einfach befüllen kannst:
 
 ---
 
-## 3. Vorgegebene Formatierungen nutzen
+## 4. Vorgegebene Formatierungen nutzen
 
 **Textstile**, die du direkt anwenden kannst:
 
@@ -43,7 +53,7 @@ Das Template enthält **Bildrahmen**, die du einfach befüllen kannst:
 
 ---
 
-## 4. Layout anpassen
+## 5. Layout anpassen
 
 - **Größe der Textfelder ändern**: Mit dem Verschieben-Werkzeug kannst du Elemente neu anordnen.  
 
@@ -56,7 +66,7 @@ Das Template enthält **Bildrahmen**, die du einfach befüllen kannst:
 
 ---
 
-## 5. pr0-Farbpalette einfügen (optional)
+## 6. pr0-Farbpalette einfügen (optional)
 
 1. Öffne das **Farbfelder-Panel** über **Ansicht > Studio > Farbfelder**.  
 2. Klicke auf das Burgermenu-Icon im Reiter `Farbe` > **Palette importieren... > Als Programmpalette**.  
@@ -69,8 +79,11 @@ Das Template enthält **Bildrahmen**, die du einfach befüllen kannst:
 > 
 > [Infos zu den pr0-genutzten Farben REDESIGN:](https://pr0.app/upload-info)
 
-## 6. Export für das pr0
+## 7. Export für das pr0
 
 Zuletzt wird die bearbeitete Seite als Bilddatei für den Upload exportiert.
 
 ![Beispielausgabe](/Images/exampleOutput.png)
+
+## 8. Beispiel für pr0.Tools
+[![pr0.tools](/Images/toolPlate.png)](https://pr0.tools)
