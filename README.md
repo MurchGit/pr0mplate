@@ -85,5 +85,9 @@ Zuletzt wird die bearbeitete Seite als Bilddatei für den Upload exportiert.
 
 ![Beispielausgabe](/Images/exampleOutput.png)
 
+<<<<<<< HEAD
 ## 8. Beispiel für pr0.Tools
+=======
+## 7. Beispiel für pr0.Tools
+>>>>>>> origin/main
 [![pr0.tools](/Images/toolPlate.png)](https://pr0.tools)
