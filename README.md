@@ -6,7 +6,7 @@
 4. Klicke auf **Öffnen** – das Dokument wird mit allen Platzhaltern und Formatierungen geladen.
 
 > [!TIP]
-> Drag & Drop der [`pr0postAffinity_v2_old.afpub`-Datei](https://github.com/MurchGit/pr0mplate/blob/main/Template/pr0postAffinity_v2_old.afpub) funktioniert ebenfalls.
+> Drag & Drop der [`pr0postAffinity_v2_old.afpub`-Datei](https://github.com/MurchGit/pr0mplate/blob/main/Template/pr0postAffinity_v2_old.afpub) funktioniert ebenfalls!
 
 ## 2. Template öffnen Affinity v3
 
